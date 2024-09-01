@@ -14,15 +14,7 @@
 </div>
 
 -----------------------------------------
-### Inspiration
 
-* Traffic congestion is becoming one of the critical issues with the increasing population and automobiles in cities. Traffic jams not only cause extra delay and stress for the drivers but also increase fuel consumption and air pollution. 
-
-* According to the [TomTom Traffic Index](https://www.tomtom.com/en_gb/traffic-index/ranking/), 3 of the top 10 countries facing the most traffic congestion are in India viz. Mumbai, Bengaluru, and New Delhi.  People are compelled to spend hours stuck in traffic jams, wasting away their precious time commuting. Current traffic light controllers use a fixed timer and do not adapt according to the real-time traffic on the road.
-
-* In an attempt to reduce traffic congestion, we developed an improved traffic management system in the form of a Computer Vision-based traffic light controller that can autonomously adapt to the traffic situation at the traffic signal. The proposed system sets the green signal time adaptively according to the traffic density at the signal and ensures that the direction with more traffic is allotted a green signal for a longer duration of time as compared to the direction with lesser traffic. 
-
-------------------------------------------
 ### Implementation Details
 
 This project can be broken down into 3 modules:
@@ -85,27 +77,4 @@ Read more about object detection model used, working of the algorithm, and devel
       $ python simulation.py
 ```
 
-------------------------------------------
-### Dissemination
 
-* This project was showcased at a national level project competition organized by [Government Polytechnic Mumbai](http://www.gpmumbai.ac.in/). View our presentation video [here](https://youtu.be/OssY5pzOyo0).
-
-* Our paper based on this project was presented at 5th IEEE International Conference on Recent Advances and Innovations in Engineering - [ICRAIE 2020](http://www.icraie.poornima.org/) and published in IEEE Xplore. View the paper [here](https://ieeexplore.ieee.org/document/9358334).
-
-------------------------------------------
-### Contributors
-
-Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
-
-Devansh Solanki - [devanshslnk](https://github.com/devanshslnk/)
-
-Rutwij Daptardar - [RDmaverick](https://github.com/RDmaverick)
-
-------------------------------------------
-### Acknowledgement
-
-We would like to extend our sincere thanks to our mentor Mrs. Nirmala Shinde Baloorkar for her kind help and valuable advice. Her support and constant supervision were imperative for the successful completion of this project. We would also like to express our special gratitude and thanks to Mrs. Kavita Kelkar, the subject-matter expert for this project, for her valuable inputs and guidance.   
-
-------------------------------------------
-### License
-This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICENSE) file for details.
